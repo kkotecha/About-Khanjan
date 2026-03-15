@@ -1,6 +1,6 @@
 # Khanjan Kotecha
 
-**Product leader** with years of experience across B2C, B2B SaaS, and B2B Enterprise — now building hands-on with AI to understand the technology shaping the next generation of products.
+**Product Guy** with years of experience across B2C, B2B SaaS, and B2B Enterprise — now building hands-on with AI to understand the technology shaping the next generation of products.
 
 I believe product managers who can build prototypes, reason about architecture, and evaluate technical trade-offs make fundamentally better product decisions. These repos are the result of that conviction.
 
