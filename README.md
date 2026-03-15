@@ -36,7 +36,7 @@ A three-part series exploring the full lifecycle of building a multi-agent AI pr
 
 | Repo | What It Is |
 |------|-----------|
-| [**SecondBrain-desktop**](https://github.com/kkotecha/SecondBrain-desktop) | Desktop AI memory agent exploring how personal agents should store and retrieve knowledge — comparing Hindsight (structured memory), knowledge graphs, vector embeddings, and raw markdown. |
+| [**SecondBrain**](https://github.com/kkotecha/SecondBrain) | Desktop AI memory agent exploring how personal agents should store and retrieve knowledge — comparing Hindsight (structured memory), knowledge graphs, vector embeddings, and raw markdown. |
 
 **Tech:** Tauri (Rust + React/TypeScript), Whisper, Silero VAD, Hindsight, Supabase pgvector
 
@@ -46,7 +46,7 @@ A three-part series exploring the full lifecycle of building a multi-agent AI pr
 
 | Repo | What It Is |
 |------|-----------|
-| [**tenant-chat-tonic**](https://github.com/kkotecha/tenant-chat-tonic) | White-label AI chatbot platform with multi-tenant architecture, knowledge base management, embeddable widgets, and Shopify integration. |
+| [**superchat**](https://github.com/kkotecha/superchat) | White-label AI chatbot platform with multi-tenant architecture, knowledge base management, embeddable widgets, and Shopify integration. |
 
 **Tech:** React, TypeScript, Supabase (Auth + RLS + Edge Functions), Shopify App Bridge
 
