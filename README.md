@@ -42,13 +42,13 @@ A three-part series exploring the full lifecycle of building a multi-agent AI pr
 
 ---
 
-### Multi-Tenant SaaS
+### RAG Pipeline & Knowledge Ingestion
 
 | Repo | What It Is |
 |------|-----------|
-| [**superchat**](https://github.com/kkotecha/superchat) | White-label AI chatbot platform with multi-tenant architecture, knowledge base management, embeddable widgets, and Shopify integration. |
+| [**superchat**](https://github.com/kkotecha/superchat) | RAG-powered AI chatbot with multi-source knowledge ingestion (CSV, PDF, web scraping, sitemaps). Explores the full retrieval-augmented generation pipeline: ingest, chunk, store, retrieve, generate. |
 
-**Tech:** React, TypeScript, Supabase (Auth + RLS + Edge Functions), Shopify App Bridge
+**Tech:** React, TypeScript, Supabase Edge Functions (Deno), OpenAI, Firecrawl API
 
 ---
 
@@ -59,7 +59,7 @@ Each project starts with a **product question**, not a technology choice:
 - *"Can multi-agent orchestration produce better outputs than monolithic prompts?"* → Trippy series
 - *"Can AI reliably map unstructured narratives to structured legal provisions?"* → Birbal
 - *"What's the right knowledge storage architecture for a personal AI agent?"* → SecondBrain
-- *"What does it take to build a multi-tenant AI chatbot SaaS?"* → Superchat
+- *"How do you build a RAG pipeline that ingests knowledge from diverse sources and serves accurate AI responses?"* → Superchat
 
 Every repo includes a **"For Practitioners"** section — a step-by-step guide for product managers and developers who want to explore the same concepts using the codebase as a starting point.
 
